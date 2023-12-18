@@ -76,18 +76,21 @@ section {
     /* letter-spacing: .2rem; */
 }
 
+
 .header {
-    background-color: var(--bg);
+    /* background-color: var(--bg); */
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 1.5rem 7%;
-    border-bottom: var(--border);
+    /* border-bottom: var(--border); */
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
     z-index: 1000;
+    /* width: 100%; */
+    background: transparent;
 }
 
 .header h1 {
@@ -832,6 +835,12 @@ section {
 
 
 @media (max-width:768px) {
+
+
+    .college-logo {
+        display: none !important;
+    }
+
 
     #menu {
         display: inline-block;

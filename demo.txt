@@ -1,135 +1,139 @@
-<section class="about" id="about">
+ <!-- timeline us section starts-->
+
+    <section class="timeline" id="timeline" >
         <h1 class="heading"><span>About</span>&nbsp;Us</h1>
 
-        <div class="row">
+        <div class="row" >
 
-            <!-- TopTitle Code-->
-            <!-- <div class="TopTitle">
-                  <div class="FirstTitle">HTML CSS & jQuery</div>
-                  <div class="secTitle">Animated Vertical Timeline</div>
-                </div> -->
+           
+    <!-- <section class="Main-section"> -->
+        <div class="Container-time">
+            <div class="js-timeline ag-timeline">
 
-            <section class="Main-section">
-                <div class="Container">
-                    <div class="js-timeline ag-timeline">
+                <!-- Progress Bar Line Code-->
+                <div class="js-timeline_line ag-timeline_line">
+                    <div class="js-timeline_line-progress ag-timeline_line-progress"></div>
+                </div>
 
-                        <!-- Progress Bar Line Code-->
-                        <div class="js-timeline_line ag-timeline_line">
-                            <div class="js-timeline_line-progress ag-timeline_line-progress"></div>
+                <div class="ag-timeline_list">
+
+                  
+                    
+                    
+                    <div class="js-timeline_item ag-timeline_item">
+                        <div class="ag-timeline-card_box">
+                            <!-- Number Code-->
+                            <div class="js-timeline-card_point-box ag-timeline-card_point-box">
+                                <div class="ag-timeline-card_point" style="box-shadow: 0 0 10px rgba(168, 85, 247, 0.5);
+                      "><img src="pic/code-flat.png" ></div>
+                            </div>
+                            
+                            <!-- Name Code-->
+                            <div class="ag-timeline-card_meta-box">
+                                <div class="ag-timeline-card_meta"></div>
+                            </div>
+                        </div>
+                        
+                        <!-- Image Code-->
+                        <div class="ag-timeline-card_item">
+                            <div class="ag-timeline-card_inner">
+                                <div class="ag-timeline-card_img-box">
+                                    <img src="pic/code1.png" class="ag-timeline-card_img" />
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    
+                    <div class="js-timeline_item ag-timeline_item">
+                        <div class="ag-timeline-card_box">
+                            <!-- Number Code-->
+                            <div class="js-timeline-card_point-box ag-timeline-card_point-box">
+                                <div class="ag-timeline-card_point" style="box-shadow: 0 0 10px rgba(168, 85, 247, 0.5);
+                      "><img src="pic/vision.png" alt=""></div>
+                            </div>
+
+                            <!-- Name Code-->
+                            <div class="ag-timeline-card_meta-box">
+                                <div class="ag-timeline-card_meta">Vision</div>
+                            </div>
                         </div>
 
-                        <div class="ag-timeline_list">
-
-                            <!-- Left Batman Box -->
-                            <div class="js-timeline_item ag-timeline_item">
-                                <div class="ag-timeline-card_box">
-                                    <!-- Number Code-->
-                                    <div class="js-timeline-card_point-box ag-timeline-card_point-box">
-                                        <div class="ag-timeline-card_point" style="box-shadow: 0 0 10px rgba(168, 85, 247, 0.5);
-                              ">01</div>
-                                    </div>
-
-                                    <!-- Name Code-->
-                                    <div class="ag-timeline-card_meta-box">
-                                        <div class="ag-timeline-card_meta">Batman</div>
-                                    </div>
-                                </div>
-
-                                <!-- Image Code-->
-                                <div class="ag-timeline-card_item">
-                                    <div class="ag-timeline-card_inner">
-                                        <div class="ag-timeline-card_img-box">
-                                            <!-- <img src="pic/code1.png" class="ag-timeline-card_img" /> -->
-                                        </div>
-                                    </div>
-
+                        <!-- Image Code-->
+                        <div class="ag-timeline-card_item">
+                            <div class="ag-timeline-card_inner">
+                                <div class="ag-timeline-card_img-box">
+                                    <h3 style="color: #fff;font-size: 2.7rem;">"To be a trailblazing community at HackSlash, where technology meets creativity, forging a future defined by innovation, collaboration, and a passion for cutting-edge advancements."</h3>
+                                    <!-- <img src="pic/code1.png" class="ag-timeline-card_img" /> -->
                                 </div>
                             </div>
-
-                            <!-- Left Batman Box -->
-                            <div class="js-timeline_item ag-timeline_item">
-                                <div class="ag-timeline-card_box">
-                                    <!-- Number Code-->
-                                    <div class="js-timeline-card_point-box ag-timeline-card_point-box">
-                                        <div class="ag-timeline-card_point" style="box-shadow: 0 0 10px rgba(168, 85, 247, 0.5);
-                              "><img src="pic/code-flat.png" style="max-width: 100%;"></div>
-                                    </div>
-
-                                    <!-- Name Code-->
-                                    <div class="ag-timeline-card_meta-box">
-                                        <div class="ag-timeline-card_meta">Batman</div>
-                                    </div>
-                                </div>
-
-                                <!-- Image Code-->
-                                <div class="ag-timeline-card_item">
-                                    <div class="ag-timeline-card_inner">
-                                        <div class="ag-timeline-card_img-box">
-                                            <img src="pic/code1.png" class="ag-timeline-card_img" />
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                            <!-- Left Batman Box -->
-                            <div class="js-timeline_item ag-timeline_item">
-                                <div class="ag-timeline-card_box">
-                                    <!-- Number Code-->
-                                    <div class="js-timeline-card_point-box ag-timeline-card_point-box">
-                                        <div class="ag-timeline-card_point">01</div>
-                                    </div>
-
-                                    <!-- Name Code-->
-                                    <div class="ag-timeline-card_meta-box">
-                                        <div class="ag-timeline-card_meta">Batman</div>
-                                    </div>
-                                </div>
-
-                                <!-- Image Code-->
-                                <div class="ag-timeline-card_item">
-                                    <div class="ag-timeline-card_inner">
-                                        <div class="ag-timeline-card_img-box">
-                                            <!-- <img src="img/code1.png" class="ag-timeline-card_img" /> -->
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                            <!-- Left Batman Box -->
-                            <div class="js-timeline_item ag-timeline_item">
-                                <div class="ag-timeline-card_box">
-                                    <!-- Number Code-->
-                                    <div class="js-timeline-card_point-box ag-timeline-card_point-box">
-                                        <div class="ag-timeline-card_point">01</div>
-                                    </div>
-
-                                    <!-- Name Code-->
-                                    <div class="ag-timeline-card_meta-box">
-                                        <div class="ag-timeline-card_meta">Batman</div>
-                                    </div>
-                                </div>
-
-                                <!-- Image Code-->
-                                <div class="ag-timeline-card_item">
-                                    <div class="ag-timeline-card_inner">
-                                        <div class="ag-timeline-card_img-box">
-                                            <!-- <img src="img/code2.png" class="ag-timeline-card_img" /> -->
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-
-
-
 
                         </div>
                     </div>
+                    
+               
+
+                   
+                    <div class="js-timeline_item ag-timeline_item">
+                        <div class="ag-timeline-card_box">
+                            <!-- Number Code-->
+                            <div class="js-timeline-card_point-box ag-timeline-card_point-box">
+                                <div class="ag-timeline-card_point"><img src="pic/goal.png" alt=""></div>
+                            </div>
+
+                            <!-- Name Code-->
+                            <div class="ag-timeline-card_meta-box">
+                                <div class="ag-timeline-card_meta">Mission</div>
+                            </div>
+                        </div>
+
+                        <!-- Image Code-->
+                        <div class="ag-timeline-card_item">
+                            <div class="ag-timeline-card_inner">
+                                <div class="ag-timeline-card_img-box">
+                                    <h3 style="color: #fff;font-size: 2.7rem;">"Fostering technical excellence and innovation at HackSlash through hands-on learning, leadership development, and exploration of cutting-edge technologies in Android App Development, Web Development, and C Programming."</h3>
+                                    <!-- <img src="img/code2.png" class="ag-timeline-card_img" /> -->
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="js-timeline_item ag-timeline_item">
+                        <div class="ag-timeline-card_box">
+                            <!-- Number Code-->
+                            <div class="js-timeline-card_point-box ag-timeline-card_point-box">
+                                <div class="ag-timeline-card_point"><img src="pic/goal3-removebg-preview.png" alt=""></div>
+                            </div>
+
+                            <!-- Name Code-->
+                            <div class="ag-timeline-card_meta-box">
+                                <div class="ag-timeline-card_meta">Goal</div>
+                            </div>
+                        </div>
+
+                        <!-- Image Code-->
+                        <div class="ag-timeline-card_item">
+                            <div class="ag-timeline-card_inner">
+                                <div class="ag-timeline-card_img-box">
+                                    <h3 style="color: #fff;font-size: 2.7rem;">"Empower members with enhanced skills, encourage collaborative innovation, establish industry connections, organize impactful events, and inspire a broader audience through community outreach, creating a dynamic and vibrant tech community."</h3>
+                                    <!-- <img src="img/code1.png" class="ag-timeline-card_img" /> -->
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+
                 </div>
-            </section>
+            </div>
+        </div>
+    <!-- </section> -->
+
+
         </div>
 
-
     </section>
+
+
+    <!-- timeline us section ends-->
