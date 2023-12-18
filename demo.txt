@@ -1,0 +1,135 @@
+<section class="about" id="about">
+        <h1 class="heading"><span>About</span>&nbsp;Us</h1>
+
+        <div class="row">
+
+            <!-- TopTitle Code-->
+            <!-- <div class="TopTitle">
+                  <div class="FirstTitle">HTML CSS & jQuery</div>
+                  <div class="secTitle">Animated Vertical Timeline</div>
+                </div> -->
+
+            <section class="Main-section">
+                <div class="Container">
+                    <div class="js-timeline ag-timeline">
+
+                        <!-- Progress Bar Line Code-->
+                        <div class="js-timeline_line ag-timeline_line">
+                            <div class="js-timeline_line-progress ag-timeline_line-progress"></div>
+                        </div>
+
+                        <div class="ag-timeline_list">
+
+                            <!-- Left Batman Box -->
+                            <div class="js-timeline_item ag-timeline_item">
+                                <div class="ag-timeline-card_box">
+                                    <!-- Number Code-->
+                                    <div class="js-timeline-card_point-box ag-timeline-card_point-box">
+                                        <div class="ag-timeline-card_point" style="box-shadow: 0 0 10px rgba(168, 85, 247, 0.5);
+                              ">01</div>
+                                    </div>
+
+                                    <!-- Name Code-->
+                                    <div class="ag-timeline-card_meta-box">
+                                        <div class="ag-timeline-card_meta">Batman</div>
+                                    </div>
+                                </div>
+
+                                <!-- Image Code-->
+                                <div class="ag-timeline-card_item">
+                                    <div class="ag-timeline-card_inner">
+                                        <div class="ag-timeline-card_img-box">
+                                            <!-- <img src="pic/code1.png" class="ag-timeline-card_img" /> -->
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <!-- Left Batman Box -->
+                            <div class="js-timeline_item ag-timeline_item">
+                                <div class="ag-timeline-card_box">
+                                    <!-- Number Code-->
+                                    <div class="js-timeline-card_point-box ag-timeline-card_point-box">
+                                        <div class="ag-timeline-card_point" style="box-shadow: 0 0 10px rgba(168, 85, 247, 0.5);
+                              "><img src="pic/code-flat.png" style="max-width: 100%;"></div>
+                                    </div>
+
+                                    <!-- Name Code-->
+                                    <div class="ag-timeline-card_meta-box">
+                                        <div class="ag-timeline-card_meta">Batman</div>
+                                    </div>
+                                </div>
+
+                                <!-- Image Code-->
+                                <div class="ag-timeline-card_item">
+                                    <div class="ag-timeline-card_inner">
+                                        <div class="ag-timeline-card_img-box">
+                                            <img src="pic/code1.png" class="ag-timeline-card_img" />
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <!-- Left Batman Box -->
+                            <div class="js-timeline_item ag-timeline_item">
+                                <div class="ag-timeline-card_box">
+                                    <!-- Number Code-->
+                                    <div class="js-timeline-card_point-box ag-timeline-card_point-box">
+                                        <div class="ag-timeline-card_point">01</div>
+                                    </div>
+
+                                    <!-- Name Code-->
+                                    <div class="ag-timeline-card_meta-box">
+                                        <div class="ag-timeline-card_meta">Batman</div>
+                                    </div>
+                                </div>
+
+                                <!-- Image Code-->
+                                <div class="ag-timeline-card_item">
+                                    <div class="ag-timeline-card_inner">
+                                        <div class="ag-timeline-card_img-box">
+                                            <!-- <img src="img/code1.png" class="ag-timeline-card_img" /> -->
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <!-- Left Batman Box -->
+                            <div class="js-timeline_item ag-timeline_item">
+                                <div class="ag-timeline-card_box">
+                                    <!-- Number Code-->
+                                    <div class="js-timeline-card_point-box ag-timeline-card_point-box">
+                                        <div class="ag-timeline-card_point">01</div>
+                                    </div>
+
+                                    <!-- Name Code-->
+                                    <div class="ag-timeline-card_meta-box">
+                                        <div class="ag-timeline-card_meta">Batman</div>
+                                    </div>
+                                </div>
+
+                                <!-- Image Code-->
+                                <div class="ag-timeline-card_item">
+                                    <div class="ag-timeline-card_inner">
+                                        <div class="ag-timeline-card_img-box">
+                                            <!-- <img src="img/code2.png" class="ag-timeline-card_img" /> -->
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+
+
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+
+    </section>
